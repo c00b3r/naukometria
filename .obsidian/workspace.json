@@ -12,10 +12,14 @@
             "id": "c058f606021541c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Аналоги.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Аналоги"
             },
             "group": "9556300a765e92eb"
           }
@@ -32,10 +36,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Граф знаний.md"
+                "file": "Аналоги.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Граф знаний"
+              "title": "Структура Аналоги"
             },
             "group": "9556300a765e92eb"
           }

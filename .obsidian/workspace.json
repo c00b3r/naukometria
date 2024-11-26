@@ -1,47 +1,25 @@
 {
   "main": {
-    "id": "7d8adba00746245a",
+    "id": "2c3106b4bd1a5ac5",
     "type": "split",
     "children": [
       {
-        "id": "12f45c8625705158",
+        "id": "e6a6807f89aa1241",
         "type": "tabs",
-        "dimension": 77.67857142857143,
         "children": [
           {
-            "id": "c058f606021541c9",
+            "id": "4f2bbe7060a1f515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Навыки и компетенций для построения карьерного плана и образовательной траектории/Исследование навыков и компетенций.md",
+                "file": "Аналоги.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Исследование навыков и компетенций"
-            },
-            "group": "9556300a765e92eb"
-          }
-        ]
-      },
-      {
-        "id": "3603de6453656ceb",
-        "type": "tabs",
-        "dimension": 22.321428571428573,
-        "children": [
-          {
-            "id": "98a84774ffef8d26",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Навыки и компетенций для построения карьерного плана и образовательной траектории/Исследование навыков и компетенций.md"
-              },
-              "icon": "lucide-list",
-              "title": "Структура Исследование навыков и компетенций"
-            },
-            "group": "9556300a765e92eb"
+              "title": "Аналоги"
+            }
           }
         ]
       }
@@ -49,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0cbc101fdebc0423",
+    "id": "dd821919c3937f27",
     "type": "split",
     "children": [
       {
-        "id": "f97d8a2ac8b2dca2",
+        "id": "285e933c415f6bf0",
         "type": "tabs",
         "children": [
           {
-            "id": "7c2d99c9538eb67d",
+            "id": "12902d5376fcb19b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,7 +47,7 @@
             }
           },
           {
-            "id": "660a66bd65eecb75",
+            "id": "a8091f64e9860ec0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,40 +60,40 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
-            "id": "d90e0950ddd89b9a",
+            "id": "3c2dd26cf3a59d23",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 300
   },
   "right": {
-    "id": "f38808b8e2009b93",
+    "id": "eb05ea65b48329c2",
     "type": "split",
     "children": [
       {
-        "id": "0bb51729314acc9c",
+        "id": "097717f8ce09d0cb",
         "type": "tabs",
         "children": [
           {
-            "id": "c99905f5318bf7c2",
+            "id": "eae8bc730eedf9be",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Описание элементов схемы деятельности.md",
+                "file": "Аналоги.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Описание элементов схемы деятельности"
+              "title": "Обратные ссылки для Аналоги"
             }
           },
           {
-            "id": "0c3135bb30d2daf0",
+            "id": "b12c390f1939a045",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Описание элементов схемы деятельности.md",
+                "file": "Аналоги.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Описание элементов схемы деятельности"
+              "title": "Исходящие ссылки из Аналоги"
             }
           },
           {
-            "id": "fb3b79cd5b8bf03e",
+            "id": "2da0507ca45acfce",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,19 +130,29 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
-            "id": "08c180c7d7b611fd",
+            "id": "dc6e835399ea52a2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Описание элементов схемы деятельности.md"
+                "file": "Аналоги.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Описание элементов схемы деятельности"
+              "title": "Структура Аналоги"
+            }
+          },
+          {
+            "id": "4d9483b034bc44ff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -195,33 +183,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c058f606021541c9",
+  "active": "4f2bbe7060a1f515",
   "lastOpenFiles": [
-    "Аналоги.md",
-    "Граф знаний.md",
-    "Навыки и компетенций для построения карьерного плана и образовательной траектории/Исследование навыков и компетенций.md",
-    "Описание элементов схемы деятельности.md",
-    "Техническая часть/Техническая реализация.md",
-    "Навыки и компетенций для построения карьерного плана и образовательной траектории/Сценарий развития студента.canvas",
-    "Навыки и компетенций для построения карьерного плана и образовательной траектории/Сценарий развития студента.md",
-    "Применение графов",
-    "Концептуальная схема проекта.md",
-    "Концептуальная схема.canvas",
-    "Навыки и компетенций для построения карьерного плана и образовательной траектории/Исследование навыков и компетенций для построения карьерного плана и образовательной траектории.md",
-    "Схема развития студента.png.md",
-    "Изображения/Схема развития.png",
-    "Изображения/Схема проекта.png",
-    "Схема развития студента.png",
-    "Схема проекта",
-    "Pasted image 20241127003750.png",
-    "Pasted image 20241127003742.png",
-    "Pasted image 20241127003233.png",
-    "Граф знаний - Сценарий развития студента.jpg",
-    "Граф знаний - Сценарий развития студента 1.jpg",
-    "Навыки и компетенций для построения карьерного плана и образовательной траектории",
-    "Техническая часть",
-    "Изображения/Pasted image 20241126231942.png",
-    "Изображения",
-    "Изображения/Pasted image 20241126231148.png"
+    "Граф знаний.md"
   ]
 }

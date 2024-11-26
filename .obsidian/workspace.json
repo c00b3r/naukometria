@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "7d8adba00746245a",
+    "type": "split",
+    "children": [
+      {
+        "id": "12f45c8625705158",
+        "type": "tabs",
+        "dimension": 77.67857142857143,
+        "children": [
+          {
+            "id": "c058f606021541c9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            },
+            "group": "9556300a765e92eb"
+          }
+        ]
+      },
+      {
+        "id": "3603de6453656ceb",
+        "type": "tabs",
+        "dimension": 22.321428571428573,
+        "children": [
+          {
+            "id": "98a84774ffef8d26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Граф знаний.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Граф знаний"
+            },
+            "group": "9556300a765e92eb"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cbc101fdebc0423",
+    "type": "split",
+    "children": [
+      {
+        "id": "f97d8a2ac8b2dca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c2d99c9538eb67d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "660a66bd65eecb75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d90e0950ddd89b9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "right": {
+    "id": "f38808b8e2009b93",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bb51729314acc9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c99905f5318bf7c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Описание элементов схемы деятельности.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Описание элементов схемы деятельности"
+            }
+          },
+          {
+            "id": "0c3135bb30d2daf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Описание элементов схемы деятельности.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Описание элементов схемы деятельности"
+            }
+          },
+          {
+            "id": "fb3b79cd5b8bf03e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "08c180c7d7b611fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Описание элементов схемы деятельности.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Описание элементов схемы деятельности"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "c058f606021541c9",
+  "lastOpenFiles": [
+    "Граф знаний.md",
+    "Навыки и компетенций для построения карьерного плана и образовательной траектории/Исследование навыков и компетенций.md",
+    "Описание элементов схемы деятельности.md",
+    "Техническая часть/Техническая реализация.md",
+    "Навыки и компетенций для построения карьерного плана и образовательной траектории/Сценарий развития студента.canvas",
+    "Навыки и компетенций для построения карьерного плана и образовательной траектории/Сценарий развития студента.md",
+    "Применение графов",
+    "Концептуальная схема проекта.md",
+    "Концептуальная схема.canvas",
+    "Навыки и компетенций для построения карьерного плана и образовательной траектории/Исследование навыков и компетенций для построения карьерного плана и образовательной траектории.md",
+    "Аналоги.md",
+    "Схема развития студента.png.md",
+    "Изображения/Схема развития.png",
+    "Изображения/Схема проекта.png",
+    "Схема развития студента.png",
+    "Схема проекта",
+    "Pasted image 20241127003750.png",
+    "Pasted image 20241127003742.png",
+    "Pasted image 20241127003233.png",
+    "Граф знаний - Сценарий развития студента.jpg",
+    "Граф знаний - Сценарий развития студента 1.jpg",
+    "Навыки и компетенций для построения карьерного плана и образовательной траектории",
+    "Техническая часть",
+    "Изображения/Pasted image 20241126231942.png",
+    "Изображения",
+    "Изображения/Pasted image 20241126231148.png"
+  ]
+}

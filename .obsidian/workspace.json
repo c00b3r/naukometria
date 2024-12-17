@@ -48,9 +48,22 @@
               "icon": "lucide-file",
               "title": "Исследование навыков и компетенций"
             }
+          },
+          {
+            "id": "95ff2032f4a43783",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Навыки и компетенций для построения карьерного плана и образовательной траектории/Исследование навыков и компетенций.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Исследование навыков и компетенций"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -141,12 +153,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Навыки и компетенций для построения карьерного плана и образовательной траектории/Исследование навыков и компетенций.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Исследование навыков и компетенций"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -202,12 +213,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d897c04e4e5bb4c",
+  "active": "95ff2032f4a43783",
   "lastOpenFiles": [
-    "Применение теории графов в сферах жизни/Открытые источники из интернета.md",
-    "Применение теории графов в сферах жизни/Теория графов.md",
     "conflict-files-obsidian-git.md",
     "Навыки и компетенций для построения карьерного плана и образовательной траектории/Исследование навыков и компетенций.md",
+    "Применение теории графов в сферах жизни/Открытые источники из интернета.md",
+    "Применение теории графов в сферах жизни/Теория графов.md",
     "Применение теории графов в сферах жизни/Анализ с помощью ResearchGate.md",
     "Применение теории графов в сферах жизни",
     "Применение/Применение.md",

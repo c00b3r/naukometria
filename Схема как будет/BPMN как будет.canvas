@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"7fe96b5c1918dec8","x":-1800,"y":-115,"width":2110,"height":719,"type":"file","file":"Изображения/BPMN to be.png"}
+		{"id":"7fe96b5c1918dec8","type":"file","file":"Изображения/BPMN to be.png","x":-1800,"y":-115,"width":2110,"height":719}
 	],
 	"edges":[]
 }
